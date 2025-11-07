@@ -99,4 +99,5 @@ ________________________________________
 <p>[10]  Multimodal Reasoning to Solve the ARC-AGI Challenge | Maximilian Seeth https://omseeth.github.io/blog/2025/MLLM_for_ARC/</p>
 <p>[12] Existing LLMs Are Not Self-Consistent For Simple Tasks https://arxiv.org/html/2506.18781v1</p>
 <p>[13] [2401.01040] Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI https://arxiv.org/abs/2401.01040</p>
+<p>Francois Chollet, Mike Knoop, Greg Kamradt, Walter Reade, and Addison Howard. ARC Prize 2025. https://kaggle.com/competitions/arc-prize-2025, 2025. Kaggle.</p>
 </p>
