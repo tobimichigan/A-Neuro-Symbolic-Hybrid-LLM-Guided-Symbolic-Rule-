@@ -81,6 +81,10 @@ Overreliance on PERFECT_PREDICTION_CACHE: During evaluation we used a perfect ca
 <p> Broader Implications: More generally, our findings suggest that combining chain-of-thought–style LLM reasoning with differentiable models can enable flexible problem solving on tasks requiring abstract thinking. The architecture we describe could be extended beyond ARC puzzles to other domains (e.g. visual-logic tasks, programmatic reasoning, robotics) where similarly structured transformations exist. In the context of the ARC Prize community’s goals, our work implies that future high-performing systems will likely be hybrid in nature. Although modern LLMs bring powerful pattern recognition and implicit knowledge, embedding them within symbolic scaffolding provides necessary checks and sample efficiency. This conclusion supports the view that next-generation AI systems will need to integrate neural learning with symbolic and probabilistic reasoning to approach human-like generality[13][12]. Our pipeline serves as a step in that direction, providing a practical template and experimental proof-of-concept for neuro-symbolic hybrid reasoning. </p>
   
 <p> Contribution to Knowledge: In closing, this paper’s main contributions are (1) demonstrating an end-to-end neuro-symbolic pipeline that achieves perfect ARC-AGI-2 performance under the standard evaluation, (2) detailing novel design elements (multi-LLM prompting, memory-optimized CNN, caching protocol) that make such performance possible, and (3) identifying concrete open problems (generalization beyond symbolic tasks, LLM reliability, theoretical foundations) for the field. By sharing these methods and findings with the community, we aim to advance understanding of how LLMs and deep networks can complement each other in solving core cognitive tasks. This knowledge lays groundwork for future systems that are both powerful and interpretable, moving us closer to artificial general intelligence. </p>
+
+<p>Future Work</p>
+
+<p>Several directions emerge for future research: Scaling Strategies: Extending the approach to larger problem spaces and more complex reasoning tasks, potentially incorporating reinforcement learning for rule discovery [8,40]. Formal Analysis: Developing theoretical frameworks for characterizing the solvability of different task types and optimal architecture selection [5,14]. LLM Uncertainty Calibration: Improving confidence estimation in symbolic rule inference to reduce spurious predictions and improve fallback mechanisms [20,36]. Multi-Modal Integration: Incorporating additional modalities such as natural language descriptions to enhance reasoning capabilities [39,47]. Lifelong Learning: Developing continuous learning approaches that accumulate reasoning patterns across tasks without catastrophic forgetting [30,49]. These directions promise to extend the capabilities demonstrated in this work toward more general and adaptable reasoning systems.</p>
   
 <h1>Sources:</h1>
 
@@ -96,8 +100,7 @@ https://arxiv.org/html/2506.18781v1
 [13] [2401.01040] Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
 https://arxiv.org/abs/2401.01040</p>
 
-<p>13. Future Work
-Several directions emerge for future research: Scaling Strategies: Extending the approach to larger problem spaces and more complex reasoning tasks, potentially incorporating reinforcement learning for rule discovery [8,40]. Formal Analysis: Developing theoretical frameworks for characterizing the solvability of different task types and optimal architecture selection [5,14]. LLM Uncertainty Calibration: Improving confidence estimation in symbolic rule inference to reduce spurious predictions and improve fallback mechanisms [20,36]. Multi-Modal Integration: Incorporating additional modalities such as natural language descriptions to enhance reasoning capabilities [39,47]. Lifelong Learning: Developing continuous learning approaches that accumulate reasoning patterns across tasks without catastrophic forgetting [30,49]. These directions promise to extend the capabilities demonstrated in this work toward more general and adaptable reasoning systems.</p>
+
 
 
 
