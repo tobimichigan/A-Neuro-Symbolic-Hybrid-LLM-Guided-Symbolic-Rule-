@@ -4,6 +4,8 @@ A Neuro-Symbolic Hybrid: LLM-Guided Symbolic Rule Inference Coupled with a Memor
 <p>
 How to cite: Oluwatobi M. Owoeye et al., “A Neuro-Symbolic Hybrid: LLM-Guided Symbolic Rule Inference Coupled with a Memory-Optimized CNN for ARC Puzzle Solving”, 2025 Initial Paper Release by Handsonlabs Software Academy</p>
 
+<p> Initial Paper Release >https://handsonlabs.org/a-neuro-symbolic-hybrid-llm-guided-symbolic-rule-inference-coupled-with-a-memory-optimized-cnn-for-arc-puzzle-solving/?v=c6a82504ceeb</p>
+
 <h1 align="center">ABSTRACT</h1>
 
 <p>
