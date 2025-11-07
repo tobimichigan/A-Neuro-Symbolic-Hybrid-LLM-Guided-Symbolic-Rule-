@@ -90,21 +90,13 @@ Overreliance on PERFECT_PREDICTION_CACHE: During evaluation we used a perfect ca
   
 <h1>Sources:</h1>
 
-<p>The conclusions above are drawn from the system’s experimental logs and analysis[1][4] and informed by related literature on ARC and neuro-symbolic reasoning[12][13]. See Initial Paper release link above for full list of references.</p>
+<p>The conclusions above are drawn from the system’s experimental logs and analysis[1][4] and informed by related literature on ARC and neuro-symbolic reasoning[12][13].</p>
+  <p></p>See Initial Paper release link above for full list of references.</p>
 ________________________________________
 
-<p>[1] [2] [3] [4] [5] [6] [7] [8] [9] [11] NeuroSymbolic_ARC_Paper_Outline.docx
-file://file_00000000558471f48cb01fc305007fee
-[10]  Multimodal Reasoning to Solve the ARC-AGI Challenge | Maximilian Seeth 
-https://omseeth.github.io/blog/2025/MLLM_for_ARC/
-[12] Existing LLMs Are Not Self-Consistent For Simple Tasks
-https://arxiv.org/html/2506.18781v1
-[13] [2401.01040] Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI
-https://arxiv.org/abs/2401.01040</p>
+<p>[1] [2] [3] [4] [5] [6] [7] [8] [9] [11] NeuroSymbolic_ARC_Paper_Outline (see Initial Paper)</p>
 
-
-
-
-
-
+<p>[10]  Multimodal Reasoning to Solve the ARC-AGI Challenge | Maximilian Seeth https://omseeth.github.io/blog/2025/MLLM_for_ARC/</p>
+<p>[12] Existing LLMs Are Not Self-Consistent For Simple Tasks https://arxiv.org/html/2506.18781v1</p>
+<p>[13] [2401.01040] Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI https://arxiv.org/abs/2401.01040</p>
 </p>
